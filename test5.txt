@@ -1,0 +1,1 @@
+i have added this file in newBranch, but test 3 must be also here
